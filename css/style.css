@@ -20,11 +20,7 @@
     padding: 5px 5px;
     text-decoration: none;
 }
-.headerli a img[src="img/profil.jpg"]  {
-    border-radius: 50%;   
-    width: 40px;
-    height: auto;
-}
+
 .headerli a:hover {
     text-decoration: underline;
 }
